@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652541495 source:d:\projet\keylogger\eylogger\main.cpp
+	<Windows.h>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+
